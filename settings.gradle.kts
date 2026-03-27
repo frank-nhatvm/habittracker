@@ -1,4 +1,4 @@
-rootProject.name = "TinyTracker"
+rootProject.name = "HabitTracker"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

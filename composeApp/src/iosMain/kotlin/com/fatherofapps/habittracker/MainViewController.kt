@@ -1,4 +1,4 @@
-package com.fatherofapps.tinytracker
+package com.fatherofapps.habittracker
 
 import androidx.compose.ui.window.ComposeUIViewController
 

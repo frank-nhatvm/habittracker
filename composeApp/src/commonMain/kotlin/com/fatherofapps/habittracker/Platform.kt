@@ -1,4 +1,4 @@
-package com.fatherofapps.tinytracker
+package com.fatherofapps.habittracker
 
 interface Platform {
     val name: String

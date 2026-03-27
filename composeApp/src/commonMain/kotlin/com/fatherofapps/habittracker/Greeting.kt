@@ -1,4 +1,4 @@
-package com.fatherofapps.tinytracker
+package com.fatherofapps.habittracker
 
 class Greeting {
     private val platform = getPlatform()
