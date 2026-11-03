@@ -30,3 +30,5 @@ dependencyResolutionManagement {
 
 include(":composeApp")
 include(":androidApp")
+include(":ht-data")
+include(":ht-database")
